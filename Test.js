@@ -5,4 +5,4 @@ $.fn.xx ===> this
 $xx.data/val
 bootstrap.load
 <meta>
-
+$xx $(xx) zz
