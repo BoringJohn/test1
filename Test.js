@@ -6,3 +6,4 @@ $xx.data/val
 bootstrap.load
 <meta>
 $xx $(xx) zz
+$element $selector
