@@ -10,3 +10,4 @@ $element $selector
 stopProapagation
 $.proxy
 function(){arg[0].[1]}
+$parent.trigger(e = $.Event('show.bs.dropdown', relatedTarget))
