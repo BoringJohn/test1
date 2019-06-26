@@ -9,3 +9,4 @@ $xx $(xx) zz
 $element $selector
 stopProapagation
 $.proxy
+function(){arg[0].[1]}
