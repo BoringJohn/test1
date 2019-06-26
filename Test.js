@@ -8,3 +8,4 @@ bootstrap.load
 $xx $(xx) zz
 $element $selector
 stopProapagation
+$.proxy
