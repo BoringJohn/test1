@@ -13,3 +13,5 @@ function(){arg[0].[1]}
 $parent.trigger(e = $.Event('show.bs.dropdown', relatedTarget))
 DOMTokenList.prototype.toggle
 $ chooser
+
+newone
